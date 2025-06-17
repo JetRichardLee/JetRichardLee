@@ -1,5 +1,5 @@
 - Hi, I'm Jiate Li, and came from China.
-- Currently working as an independent. Obtained my Master of Computing degree in School of Computing at National University of Singapore (NUS), and my Bachelor degree at College of Computer Science and Technology, Zhejiang University (ZJU).
+- Currently working as an independent, and will join University of Southern California as a Ph.D. student in 25Fall. Obtained my Master of Computing degree in School of Computing at National University of Singapore (NUS), and my Bachelor degree at College of Computer Science and Technology, Zhejiang University (ZJU).
 - Interested in machine learning, including trustworthy machine learning and graph nerual network.
 - Please reach me by emailing at 3180105633@zju.edu.cn or e0966298@u.nus.edu.
 
